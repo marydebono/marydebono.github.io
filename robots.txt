@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://marydebono.github.io/sitemap.xml
